@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "test post"
-date:   2014-06-28
-categories: test
+title:  "placeholder titles and brethren"
+date:   2014-11-13
+categories: meta
 ---
 
-Now cooking with fire1!
-
+Today I make lists, tomorrow I list makes.
