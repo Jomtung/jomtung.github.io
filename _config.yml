@@ -9,3 +9,4 @@ url: "http://jomtung.github.io"
 markdown: kramdown
 permalink: pretty
 encoding: UTF-8    
+layouy: default

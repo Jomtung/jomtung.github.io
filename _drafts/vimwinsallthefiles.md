@@ -3,9 +3,9 @@ layout: post
 title:  "vim wins all the files, but emacs is cooler"
 date:   2015-07-01
 categories: firstpost, flametopic, vim, emacs, configuration
---
+---
 
-I still remember when I decided to choose between vim and emacs.  I didn't have many requirements to choose the winner, but I knew what had to be done.  I had a 4 GB (maybe I forgot the exact size but it was larger than normal) csv file that had to be used to create another csv file for a mass update (millions of system records needed to be modified).  At the time I was a Data Quality Specialist and a former Excel Wizard who was also proficient in MS Access, so I thought it was no sweat.  So I ran the query to get the data and looked at the file.
+Here is my meager contribution to the flame war.  I still remember when I decided to choose between vim and emacs.  I didn't have many requirements to choose the winner, but I knew what had to be done.  I had a 4 GB (maybe I forgot the exact size but it was larger than normal) csv file that had to be used to create another csv file for a mass update (millions of system records needed to be modified).  At the time I was a Data Quality Specialist and a former Excel Wizard who was also proficient in MS Access, so I thought it was no sweat.  So I ran the query to get the data and looked at the file.
 
 Then the csv file wouldn't load.  At.  All.
 
